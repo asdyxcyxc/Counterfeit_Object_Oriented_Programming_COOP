@@ -19,12 +19,12 @@ This repository contains the following material:
 
 ## Demos
 
-Triggering Shadow Stack:
-[https://github.com/uf0o/Counterfeit_Object_Oriented_Programming_COOP/assets/24236867/2224424a-994d-4c11-96b4-ec915df08c31](https://github-production-user-asset-6210df.s3.amazonaws.com/24236867/264746443-2224424a-994d-4c11-96b4-ec915df08c31.mov)
 
+[PoC - Triggering Shadow Stack](https://github-production-user-asset-6210df.s3.amazonaws.com/24236867/264746443-2224424a-994d-4c11-96b4-ec915df08c31.mov)
 
-CVE-2019-0539:
-https://github.com/uf0o/Counterfeit_Object_Oriented_Programming_COOP/assets/24236867/ad169d3a-1a03-4b99-ae58-6d200586e5b8
+[PoC- Invoke vfgadget that triggers WinExec](https://github.com/uf0o/Counterfeit_Object_Oriented_Programming_COOP/blob/main/demos/poc1.mov)
+
+[CVE-2019-0539](https://github.com/uf0o/Counterfeit_Object_Oriented_Programming_COOP/assets/24236867/ad169d3a-1a03-4b99-ae58-6d200586e5b8)
 
 
 
