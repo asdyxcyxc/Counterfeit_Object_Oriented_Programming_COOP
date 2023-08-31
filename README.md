@@ -20,10 +20,9 @@ This repository contains the following material:
 ## Demos
 
 Triggering Shadow Stack:
-https://github.com/uf0o/Counterfeit_Object_Oriented_Programming_COOP/blob/main/demos/poc0.mov
+https://github.com/uf0o/Counterfeit_Object_Oriented_Programming_COOP/assets/24236867/2224424a-994d-4c11-96b4-ec915df08c31
 
-Simple Invoke vfgadget COOP:
-https://github.com/uf0o/Counterfeit_Object_Oriented_Programming_COOP/blob/main/demos/poc1.mov
 
 CVE-2019-0539:
-https://github.com/uf0o/Counterfeit_Object_Oriented_Programming_COOP/blob/main/demos/CVE-2019-0539.mov
+https://github.com/uf0o/Counterfeit_Object_Oriented_Programming_COOP/assets/24236867/c8165417-d6c9-4206-8ce8-38c061a7e015
+
