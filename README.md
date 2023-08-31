@@ -20,7 +20,8 @@ This repository contains the following material:
 ## Demos
 
 
-[PoC - Triggering Shadow Stack](https://github-production-user-asset-6210df.s3.amazonaws.com/24236867/264746443-2224424a-994d-4c11-96b4-ec915df08c31.mov)
+
+[PoC - Triggering Shadow Stack](https://github.com/uf0o/Counterfeit_Object_Oriented_Programming_COOP/assets/24236867/c0a6faeb-a336-44db-86e0-da95f42cc5d9)
 
 [PoC- Invoke vfgadget that triggers WinExec](https://github.com/uf0o/Counterfeit_Object_Oriented_Programming_COOP/blob/main/demos/poc1.mov)
 
